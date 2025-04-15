@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Smit Chauhan 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋 I'm Smit Chauhan  
+🎓 Final year student | 🧑‍💻 Web Developer | 🌱 Learning MERN stack and DSA
+🚀 Passionate about building web apps and solving real-world problems  
+📫 Reach me: smitchauha | [LinkedIn]
 
-<!---
-Smitchauhan03/Smitchauhan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 💻 My Tech Stack
+- React.js | JavaScript | Node.js | Appwrite
+- HTML5, CSS3, Tailwind CSS
+- Git & GitHub
+
+
