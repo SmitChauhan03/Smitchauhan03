@@ -7,7 +7,8 @@
 
 
 #### 💻 My Tech Stack
-- React.js | JavaScript | Node.js | Appwrite
+- React.js | JavaScript | Node.js | Express
+- Appwrite (BaaS)
 - HTML5, CSS3, Tailwind CSS
 - Git & GitHub
 
