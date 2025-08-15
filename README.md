@@ -5,7 +5,7 @@
 ---
 
 ## 💡 About Me  
-- 🎓 Final-year Computer Engineering student  
+- 🎓 Final-year Information & Technology Communication student  
 - 🛠 Building projects with **React.js**, **Node.js**, **Express**, **MongoDB**  
 - 📱 Love creating **responsive & user-friendly UIs**  
 - 📈 Constantly learning new tools like **TypeScript** and **Next.js**  
