@@ -1,6 +1,6 @@
 # Hi there, I'm Smit Chauhan 👋  
 
-🚀 **Full-Stack Web Developer** | 💻 **React & Node.js Enthusiast** | 📸 **Videography Lover**  
+🚀 **Full-Stack Web Developer** | 💻 **React & Node.js Enthusiast**  
 
 ---
 
